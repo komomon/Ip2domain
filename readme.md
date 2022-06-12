@@ -1,8 +1,8 @@
-## ip2domain
+# ip2domain
 
 通过ssl证书，批量ip反查域名工具。
 
-### Usage
+## Usage
 
 ```
 usage:
@@ -37,7 +37,7 @@ www.cnblogs.com
 
 ![image-20220612125013941](images/image-20220612125013941.png)
 
-### 一起交流
+## 一起交流
 
 感兴趣的可以关注 **Z2O安全攻防** 公众号回复“**加群**”，添加Z2OBot 小K自动拉你加入**Z2O安全攻防交流群**分享更多好东西。
 
